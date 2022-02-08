@@ -1,0 +1,14 @@
+Future Courses -  AWS Certified Developer or AWS Certified SysOps Administrator. 
+
+AWS is a Cloud Provider, provides with server and services
+Distribution of servers -   Regions -> Data Centres(Zones)
+
+Regional Services - EC2
+Global Services - IAM
+
+IAM (Identity and Access management) global service
+Dont use root account, instead create users and groups(JSON File for permissions)
+Steps   -   IAM -> Users -> Create User and add in an admin group
+            Login as an IAM user in new browser with the ID or Alias seen in dashboard
+
+
